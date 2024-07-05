@@ -42,7 +42,7 @@ I am also a student at #42 school and can provide various projects from my cours
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorak9904&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorak9904&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorak9904&layout=compact&theme=radical)
 
